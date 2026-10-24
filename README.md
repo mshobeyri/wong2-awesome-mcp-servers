@@ -420,7 +420,6 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
 - **[LunchMoney](https://github.com/akutishevsky/lunchmoney-mcp)** - MCP server for LunchMoney personal finance and budgeting tool.
 - **[Local History MCP](https://github.com/xxczaki/local-history-mcp)** – MCP server for accessing VS Code/Cursor's Local History.
-- **[Multimeter](https://github.com/mshobeyri/multimeter)** - Scaffold, validate, format and run Git-native YAML `.mmt` API tests (HTTP/GraphQL/gRPC/WebSocket) via MCP (`mmt-mcp`) for VS Code/Cursor and CI.
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
@@ -447,6 +446,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[MongoDB Lens](https://github.com/furey/mongodb-lens)** - Full Featured MCP Server for MongoDB Database.
 - **[Miro](https://github.com/k-jarzyna/mcp-miro)** - Miro MCP server, exposing all functionalities available in official Miro SDK.
 - **[Multi Chat MCP Server (Google Chat)](https://github.com/siva010928/multi-chat-mcp-server)** - Connect AI assistants like Cursor to Google Chat and beyond — enabling smart, extensible collaboration across chat platforms.
+- **[Multimeter](https://github.com/mshobeyri/multimeter)** - Scaffold, validate, format and run Git-native YAML `.mmt` API tests (HTTP/GraphQL/gRPC/WebSocket) via MCP (`mmt-mcp`) for VS Code/Cursor and CI.
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** - MySQL database integration with configurable access controls and schema inspection
 - **[Nanoleaf](https://github.com/srnetadmin/nanoleaf-mcp-server)** - Control Nanoleaf smart lights through MCP - turn on/off, adjust brightness, change colors, set effects, and discover devices
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
